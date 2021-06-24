@@ -1,0 +1,38 @@
+Contact Info:
+    Live in Boardman, Ohio
+    Professional email (Thomas.George4747@gmail.com)
+    Github account link
+
+Education:
+    September 2018 - June 2020
+    Boardman High School
+    Boardman, Ohio  44512
+
+    August 2020 - June 2022
+    Career and Technical Training (Software Engineering)
+    Mahoning County CTC, Canfield, Ohio  44406
+
+Experience:
+    Crew Member
+    Chick-fil-A, In the Southern Park Mall, 7401 Market St Rm 857, Boardman, OH 44512 (August 2020  –  May 2021)
+    Took orders, made fries, bagged food, boxed chicken nuggets and strips, brought orders to customers outside for curbside pickup, and closed the restaurant
+
+Honors & Activities:
+    Project Mayhem (Rock Orchestra) (Acoustic Violin) - 2 years
+    Boy Scouts - 7 years
+    Church Tech Volunteering - 2 years
+    Orchestra (Violin) - 6 years
+
+Skills:
+    Web Development and Design
+    Visual Studio
+    Visual Studio Code
+    Wordpress
+    Python
+    C#
+    HTML
+    CSS
+    Javascript
+    jQuery
+
+Contact Form
