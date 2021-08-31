@@ -36,3 +36,5 @@ Skills:
     jQuery
 
 Contact Form
+
+Resume for each portfolio
